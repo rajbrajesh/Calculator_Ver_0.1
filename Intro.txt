@@ -1,0 +1,9 @@
+This Calculator model have only Basic functinality :
+1. Addition
+2. Substraction
+3. Multiplication
+4. Division
+
+But in ver0.1
+we can't do 
+-Complex Addition,subtraction,Multiplication,etc
